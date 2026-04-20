@@ -12,7 +12,7 @@ Guided Learning Skill is an **adaptive learning operating system** that delivers
 
 ## Skill Documentation
 
-- **中文版本**: [zh/guided-learning.md](zh/skills/guided-learning/guided-learning.md)  
+- **中文版本**: [zh/guided-learning.md](zh/skills/guided-learning/SKILL.md)  
 - **English Version**: [en/guided-learning.md](en/skills/guided-learning/SKILL.md)  
 
 ## Overview
